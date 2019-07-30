@@ -1,0 +1,16 @@
+{
+  "name": "gopro-backup",
+  "version": "1.0.0",
+  "description": "Easy to use GoPro WiFi backup tool",
+  "scripts": {
+    "start": "node cli"
+  },
+  "keywords": ["gopro", "backup", "wifi"],
+  "author": "DevSpeak",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "ora": "^3.4.0",
+    "request": "^2.88.0"
+  }
+}
